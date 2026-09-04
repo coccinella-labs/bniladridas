@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/bniladridas/main/.github/assets/thumbnail.png" alt="bniladridas" width="100%">
+</p>
+
 # Niladri Das &nbsp;&nbsp;&nbsp; <a href="https://palmshed.github.io/nuntius"><kbd><img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" height="15" />&nbsp;Open</kbd></a>
 
 ### Bio
