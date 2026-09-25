@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Coccinella-Labs/bniladridas/main/.github/assets/thumbnail.png" alt="bniladridas" width="100%">
 </p>
 
-# Niladri Das &nbsp;&nbsp;&nbsp; <a href="https://palmshed.github.io/nuntius"><img src="https://img.shields.io/badge/%F0%9F%8D%B5%20Palmshed-8a8f86?style=for-the-badge" height="20" alt="Palmshed" /></a>
+# Niladri Das &nbsp;&nbsp;&nbsp; <a href="https://palmshed.github.io/nuntius"><img src="https://raw.githubusercontent.com/coccinella-labs/palmshed/main/assets/logos/palmshed-mark.svg" height="20" alt="Palmshed" />&nbsp;<b>Palmshed</b></a>
 
 ### Bio
 
