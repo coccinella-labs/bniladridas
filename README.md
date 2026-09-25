@@ -6,6 +6,10 @@
 
 ### Bio
 
-Hello. I am Niladri Das, a staff software engineer. I also have a startup. I am just getting started, so I hope you will look at the repositories I have led. I aim to teach. I have always been a careful person, which naturally led me toward becoming a maintainer. That is enough about me. This is just a quick hello, but feel free to reach out if there is anything else you would like to talk about.
+Software engineer and maintainer. I build things at [Coccinella Labs](https://github.com/coccinella-labs) and maintain open source projects.
 
-[Show More](https://github.com/palmshed/palmshed)
+I care about clear documentation, reproducible builds, and leaving code better than I found it. I aim to teach, and I have led the work in the repositories below.
+
+Feel free to reach out if there is anything you would like to talk about.
+
+[Show More](https://github.com/coccinella-labs/palmshed)
